@@ -1,0 +1,33 @@
+Tom Esch
+
+https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131 - summarize in 1-3 paragraphs
+
+Windows System Restore is a built-in tool for resetting one’s machine to a previous state. This feature is usually an essential step to restoring functionality for a machine. The process can take between 10 - 30 minutes, and different versions of Windows have this feature in different places.
+
+Windows 10, 8.1, and 8
+Control Panel → System and Security → System → System Protection → System Properties, System Restore
+Next → Select Restore Point → Confirm and Finish
+Looking at the programs, drives, and other parts of Windows that will be affected provides a report for troubleshooting and eliminating causes of machine issues.
+Yes to continue and do not interrupt the process; doing this from Safe Mode may be the only way to reboot the machine properly with a reinstalled OS or state.
+Numerous messages of activity for the restore begins and takes upwards of 15 minutes to complete--do not restart or turn off the machine at this time.
+Sign-in to Windows and hope to see the confirmation of the system restore and your documents have not been affected.
+
+Windows 7 or Vista
+Start, All Programs, Accessories, System Tools
+Click System Restore icon and click next on the opening dialogue screen
+Choose restore point--ideally one just before the problems started--from manual and automatically stored states.
+Next - Finish - Let go during the process (no restart or power down)
+Login should say successful...
+
+Windows XP
+Start, All Programs, Accessories, System Tools
+Click System Restore icon and select Restore My Computer to an Earlier Time
+Choose a date and select available state
+Next and confirm restore point
+Wait
+Log back in and hope to see a success sign
+
+Important Notes
+System restore only affects Windows, not personal files.
+File recovery programs are for files gone missing/in need of restoration
+System Restore can be accessed by rstrui.exe (a way to access it in Safe Mode or CMD line)
