@@ -1,0 +1,37 @@
+seattle-ops-201d2: Reading 07
+
+https://techthoughts.info/ps1-should-you-learn-powershell/ 
+
+Another language that will take time-investment to learn. Built on the .NET language, it’s Microsoft’s administrator and configuration shell. Tasks are performed via cmdlets (pronounced commandlats)
+
+Comparison of shell languages javascript, java, python, C#, and Ruby shows the commonality is they all create something such as a desktop application, a web application, a website, a game, or a mobile app. Job Titles: Developer, Full Stack Developer, Front End Developer, Web Developer, Software Developer and Application Developer
+
+Powershell allows users to do something in the context of a technological environment. Job Titles: Systems Administrator, Network Administrator, Systems Engineer, Site Reliability Engineer, Systems Development Engineer, Cloud Architect, and Systems Architect.
+
+Blurring lines since both are becoming available for the other:
+Linux → Bash → Python
+Windows → PowerShell → C#
+
+Powershell is a “complete” scripting environment
+Like Bash, powershell relies on the “pipeline” concept |
+
+“The two technologies aren’t a perfect comparison. A Bash / Python mix more closely resembles PowerShell while PowerShell can’t typically reach the capabilities that Python can achieve. The two technologies aren’t a perfect comparison. A Bash / Python mix more closely resembles PowerShell while PowerShell can’t typically reach the capabilities that Python can achieve.”
+
+PowerShell is everywhere: Windows	Linux	Hyper-V	VMWare	AWS	Azure
+
+top 5 reasons why you should learn PowerShell
+Automation – you’ll be faster
+Accuracy – reduce mistakes
+Versatility – learning once enhances you everywhere
+Community – PowerShell has one of the most connected and welcoming communities in tech. Plugging into it will only help you become a better admin/engineer
+Relevant – PowerShell continues to grow and be adopted. If you’re not learning it, you won’t remain competitive in the job market seems this should be first
+ 
+https://www.theregister.com/2019/02/26/malware_ibm_powershell/ 
+
+Points out the rise in direct-to-memory attacks using PowerShell. From a security standpoint, the big takeaway is: the bad guys are using it, so I better understand how they might do so against my client. Moreover, my understanding of PowerShell puts me in a proactive defensive position, rather than a reactive one. These attacks exploit social engineering.
+
+https://www.youtube.com/watch?v=fe5Mbszdu9M
+
+For example, using trusted applications, users may be asked to take steps that seem innocent, but are atypical and usually the doorway in for the exploit such as the video’s Google docs “macros acceptance” popup. This then allows lateral movement thru a network, and hackers know teams tend to not monitor this activity (so as this method overtakes malware, malware will become the new minority exploit the industry will take its eyes off of--see-saw?) To keep up:
+
+symantec.com/security-center
