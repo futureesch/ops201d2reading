@@ -1,0 +1,37 @@
+Seattle-ops-201d2: reading 10
+
+https://www.veeam.com/blog/how-to-get-started-with-veeam-backup-free-edition.html 
+
+This is a software tool that enhances VMware. 
+
+VeeamZIP – Creates an ad-hoc backup of a running VM, which gives you many benefits such as being able to easily copy a backup to another host without having to power off the original VM
+Powerful and flexible restores – Supports a number of recovery scenarios, including recovery of an entire VM, guest OS files and individual application items
+Quick Migration (VMware) – Migrates a live VM between hosts or datastores with minimal downtime and without requiring clusters, shared storage, or even VMware vMotion or Storage vMotion
+
+VeeamZIP copies a running vm and asks you where to save it, that easy. The backup is compressed to save on storage via a “deduplication” process which eliminates duplicate or redundant info, esp in computer data. Uses:
+
+Backing up before Updates
+Archiving the VM
+Need to copy to remote host or test lab
+
+Powerful and Flexible Restoration
+
+VM files (.vmdk, .vmx and others for VMware; .vhd, .vhdx, .xml and others for Hyper-V). Veeam Backup Free restores VM files directly from deduplicated, compressed backups without having to extract the VM from the backup.
+An entire VM. You can restore an entire VM to the same location or to a new location.
+VM disks (VMware). If a VM disk becomes corrupted by an OS failure or some other cause, you can simply restore the affected VM disk and connect it to the original or recovered VM.
+Guest OS files. You can restore guest OS files for Windows FAT and NTFS file systems, and also ReFS with OS-level deduplication when running Windows Server 2012. Moreover, a special wizard and a virtual helper appliance provide support for 17 additional file systems. In all cases, Veeam Backup Free Edition is able to restore the guest files without having to extract the entire virtual disk image from the backup.
+
+Can restore Microsoft Exchange and Sharepoint items.
+
+Quick migration navigates low and high latency.
+
+Additional storage application - Native tape support - since these remain low-cost data storage solutions.
+Support for Virtual Cloud Director (vCD)
+
+Explorer for MS Sharepoint & Exchange
+
+Parallel processing of virtual disks within VMs
+
+Ignores empty blocks (probably part of the deduplication)?
+
+Hardware-accelerated compression - improvements in the article edition suggest change in algorithm’s design to take advantage of compression using SSE extensions.
