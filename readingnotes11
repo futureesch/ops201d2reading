@@ -1,0 +1,48 @@
+Seattle-ops-201d2: reading 11
+
+https://www.solarwindsmsp.com/blog/ssd-data-recovery-best-practices
+
+SSD Data Recovery Best Practices:
+
+Advantages of SSDs over HDDs are restated in terms of efficiency, no physical parts, good for compact electronics, etc. to set up the point that this doesn’t make SSD free from harm
+Because they last on par with HDDs and can fail just like them, it is important to take data-loss prevention measures with them as well especially since their failure can be unpredictable and unavoidable.
+
+Diagnosing potential SSD failure:
+
+Since audible sounds such as HDDs begin to make, the SSD has no such warning. So, here are things to check:
+Bad Blocks - physically damaged or corrupted parts are impeding data storage and retrieval. Symptoms of bad blocks: 
+Failure in file storage, retrieval, or moving
+Active apps operate slowly or frequently crash
+User prompted to “repair the file system”
+General performance decreases
+File System Repair - run physical defect software; if nothing is detected, could be port could be MB
+Crashing - Particularly during boot up and eventually settles and loads; run software to detect issues
+Read-only mode - Unlikely, but if you can run only in this mode, then there is likely corruption--back up and try to restore.
+
+How to fix an SSD:
+
+Check drivers
+Format the drive and redo the OS
+Power-Cycling: “If the SSD drive becomes corrupted through power failure, this method may be the solution. First, unplug the SATA data cable, but leave the power cable in. Leave the power on for half an hour, then turn it off for 30 seconds. Turn the power back on again for another half hour. Finally, turn it off for another 30 seconds. Turn the power back on and reconnect the data cable. If power cycling has been effective, the SSD will be back up at this point.”
+Idling in the boot menu. “This method is similar to power cycling, except that while the power is on during the half-hour intervals, the computer should be left to idle in the boot menu. On a PC, boot into BIOS and sit at the BIOS screen. On a Mac, get to the boot menu by turning on the computer while holding down the ALT key.”
+Data Recovery:
+
+Best. Usually restored drives restore access to data
+Ok. Read-only usually provides access to data, but isn’t safe for continued use
+Ugh. Data lost either because physical damage is too extensive, or functionality is recovered, but data corruption is irretrievable. 
+
+Many SSDs use TRIM whereby the file storage is mitigated with immediate deletion of files instead of waiting to overwrite with new data. 
+
+Best Practices:
+
+“Download a program from a selection of existing free software options designed to monitor SSD health by tracking operating temperature and performance metrics.
+When investing in a new SSD, buy strategically. Many SSDs come equipped with S.M.A.R.T. (Self-Monitoring, Analysis, and Reporting Technology) that warns users of potential failure and prompts them to take preventative measures. 
+Have a backup strategy. Backup data regularly and routinely, even if your SSD was purchased recently and appears to be in good health. Unexpected corruption, power surges, viruses, or physical harm could befall your drive and cause permanent data loss. You truly never know what could happen—which is why valuable data should always be duplicated somewhere secure.”
+
+https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148 
+
+Walkthru of Darik’s Boot and Nuke freeware that COMPLETELY erases an SSD’s user data, program data, and os data. EVERYTHING. 
+Has to run off of a disk since it’s going to try to erase your OS!
+Steps 1 - 3 = download and making an iso of some kind 
+Step 4 = Reboot into DBAN
+Steps 5 - 9 = Completing the DBAN experience. (Lab 11?)

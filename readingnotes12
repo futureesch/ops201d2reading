@@ -1,0 +1,13 @@
+Seattle-ops-201d2: reading 12
+
+https://turbofuture.com/computers/Introduction-to-pfSense-An-Open-Source-Firewall-and-Router-Platform 
+
+Introduction to pfSense-An Open Source Firewall and Router Platform
+
+“pfSense is a free, customized distribution of FreeBSD that can turn an old computer into a full featured router and firewall.
+pfSense was created in 2004 as a fork of the popular m0n0wall project. The main difference between pfSense and m0n0wall is that pfSense is designed mainly to be installed on PCs instead of embedded devices which allows pfSense to offer more flexibility and features.
+pfSense is very flexible and can easily be adapted to numerous applications ranging from a home router to a firewall for a large corporate network. pfSense is easy to install and maintain offering a very useful web based user interface. pfSense includes many features that are often only found in expensive commercial routers.”
+The professional application is in getting pfSense in embedded hardware as a low-cost solution for good looking networking devices instead of old pcs. In short, a good-looking professional network router with administrator tools beyond most consumer routers.
+To set up pfSense with a computer requires two network cards be present. This method is demonstrated nicely in this video https://www.youtube.com/watch?v=Q0JFfpG4BWI 
+There is good support for pfSense as well across active members of the community who use pfSense and keep an active presence of support online. BSD provides professional solutions including broader support and software for subscribers.
+ 

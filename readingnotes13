@@ -1,0 +1,29 @@
+Seattle-ops-201d2: reading 13
+
+https://www.pcworld.com/article/243818/how-to-remove-malware-from-your-windows-pc.html 
+
+Signs of malware:
+Slower than usual performance
+Pop-up spates
+Other anomalies
+
+Entering Safe Mode:
+Disconnect the PC from the Internet until you are certain it is safe to do so again.
+Boot into Safe Mode to force Windows into a minimal state
+Windows 10 Route to restarting in Safe Mode:
+“To boot into Windows Safe Mode, first click the Start button in Windows 10 and select the Power button as if you were going to reboot, but don’t click anything.
+Next hold down the Shift key and click Reboot. When the full-screen menu appears, select Troubleshooting, then Advanced Options, then Startup Settings.
+On the next window click the Restart button and wait for the next screen to appear (just stick with us here, we know this is long). 
+Next you will see a menu with numbered startup options; select number 4, which is Safe Mode. Note that if you want to connect to any online scanners you’ll need to select option 5, which is Safe Mode with Networking.”
+
+Delete Temporary Files using Disk Cleanup.
+
+Using a malware scanner program--since the extant Antivirus didn’t detect the malware. 
+
+I would not use anything by a Russian firm/national or Chinese firm/national to check my computer for malware as they’re behavior is clearly antithetical to US security as shown in the recent Solarwinds fiasco.
+
+They recommend others and go into detail with https://www.malwarebytes.com/mwb-download/ 
+
+Finally, if the problems persist after one scan, try other programs and scans as they may be equipped to deal with the malware in question.
+
+
