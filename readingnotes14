@@ -1,0 +1,45 @@
+Seattle-ops-201d2: reading 14
+
+https://www.joe0.com/2017/06/11/importance-of-virtualization-in-the-amazon-ec2-cloud/ 
+
+Virtualization and the Importance of the EC2 Cloud
+
+“A good example of the virtualization of Amazon AWS services is Amazon Elastic Compute Cloud (EC2), which is essentially an IaaS service that provides virtual servers based on the Xen hypervisor.”
+IaaS https://azure.microsoft.com/en-us/overview/what-is-iaas/ 
+Xen hypervisor - https://xenproject.org/developers/teams/xen-hypervisor/ 
+It acts as a virtual machine manager that sits on top of the host system where all of the customer virtual machines run.
+
+
+“Amazon Machine Image (AMI), which is also a virtual appliance. However, AMI is mainly responsible for creating on-demand virtual machines within the Amazon Elastic Compute Cloud.”
+
+
+There is a lot this article presumes of my prior knowledge.
+Cloud Watch - https://aws.amazon.com/cloudwatch/ - DevOps toolsets. 
+Auto Scaling - "Auto scaling is a cloud computing feature that allows users to automatically scale cloud services, like virtual machines (VM) and server capacities, up or down, depending on defined situations. Cloud computing providers, such as Amazon Web Services (AWS), offer this feature.Auto scaling also ensures that new instances are seamlessly increased during demand spikes and decreased during demand drops, enabling consistent performance for lower costs.” https://www.techopedia.com/definition/29432/auto-scaling 
+Ephemeral Storage (Legacy) - Elastic Block Storage http://awsbeginner.com/amazon-ebs-vs-ephemeral-storage/ 
+Amazon S3 - EBS Snapshot = https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html 
+
+https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html 
+
+Reading this article made me chuckle a bit because rather than experience some top-down attempt at team-building, it’s been my life’s work thus far. As a teacher with a masters in the practicing arts, I have spent a lot of time researching, modifying, and deploying various mechanisms for team-building. When she said she felt like she could say anything to her competition team (as opposed to her common traits team with whom she struggled), I immediately thought of two things:
+The rule of improv
+The strength in diversity
+As a musician, improvisation is essential: when you mess up live, you just have to keep going, there’s no “wait, let me go back and replay that note,” and being able to adapt quickly is--an in music that can be a rather fast adaptation--learning how to make mistakes and move on carried over from my competitive sports days. When brainstorming, there is no bad idea; when jamming, there is no wrong note; when playing an opponent in the field of play, there is no wrong play, if it works. The only way to get the good idea is to get all the ideas out in the first place. When I ran Reacting to Past curriculum, I spent a couple of weeks learning who my students were as learners so I could:
+Diversify as much as possible across age, ethnic and religious backgrounds, and personal strengths and weaknesses to balance out teams for intense, immersive role-playing and quiz-taking
+Assign them roles challenging them academically, intellectually, and at the community colleges, I get to challenge them interpersonally.
+
+Back to the article…
+
+The influence of the rise of global commerce as the de facto entrepreneurial experience, more “modern” work is becoming increasingly team-based. I know people don’t like being micromanaged--I was drawn to the classroom at the collegiate level for exactly that freedom. 2012 Project Aristotle: 
+
+Group norms are a part of my classes…
+
+I am going to answer Team B before reading on…
+
+Then onto collective IQ research
+‘‘Some teams had a bunch of smart people who figured out how to break up work evenly,’’ said Anita Woolley, the study’s lead author. ‘‘Other groups had pretty average members, but they came up with ways to take advantage of everyone’s relative strengths. Some groups had one strong leader. Others were more fluid, and everyone took a leadership role.’’ 
+These describe exactly the kinds of good teams that emerged in my group quiz assignments
+
+And I was right about Team B because I’ve got dozens of classes with groups formed with the basic psychological premise to differentiate the teams as much as possible, and I’ve been fortunate to see how powerful this can be with global diversity scaled in my classrooms at Seattle Central College.
+
+I have a very memorable experience at Central whereby new members of the professional culture helped shift the typical meeting atmosphere of “ok, here’s how it’s gonna be,” to “let’s figure out our roles together!” The shock it produced in the room was astounding for so-called social scientists of the previous age. I’ve been on all of these teams at one point in my career or another. I definitely liked the groups I socialized well with, but it’s funny how other factors affect this depending on the other team-members.
